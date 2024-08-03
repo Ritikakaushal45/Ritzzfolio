@@ -1,4 +1,7 @@
 # Ritzzfolio
+
+https://ritzzfolio-ritika-kaushal.netlify.app/
+
 RTizzFolio is a dynamic portfolio created using HTML, CSS, JavaScript, and SCSS. It showcases projects and skills in an interactive and visually appealing manner, offering users a seamless browsing experience
 "RTizzFolio" is a dynamic and visually engaging portfolio template crafted using HTML, CSS, JavaScript, and SCSS (Sass). This innovative portfolio design is tailored to showcase the unique skills, projects, and accomplishments of professionals in various fields, including but not limited to designers, developers, photographers, and writers.
 
